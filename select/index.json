@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "No buts!",
+  "base_artist": "川田まみ",
+  "createdAt": "2026-03-10T05:33:41.886092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No buts!",
+      "artist": "Mami Kawada",
+      "has_synced": true,
+      "path": "select/01_No_buts!_Mami_Kawada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No buts!",
+      "artist": "Kawada Mami",
+      "has_synced": true,
+      "path": "select/02_No_buts!_Kawada_Mami.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Buts About It",
+      "artist": "FIDDLER'S GREEN",
+      "has_synced": false,
+      "path": "select/03_No_Buts_About_It_FIDDLER'S_GREEN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No buts!",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/04_No_buts!_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No buts! (tv-size)",
+      "artist": "川田まみ",
+      "has_synced": false,
+      "path": "select/05_No_buts!_(tv-size)_川田まみ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No buts! (TV size)",
+      "artist": "川田まみ",
+      "has_synced": false,
+      "path": "select/06_No_buts!_(TV_size)_川田まみ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Buts! (Russian Ver.)",
+      "artist": "Onsa Media",
+      "has_synced": true,
+      "path": "select/07_No_Buts!_(Russian_Ver.)_Onsa_Media.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No buts! <MfEI ver.>",
+      "artist": "Mami Kawada",
+      "has_synced": false,
+      "path": "select/08_No_buts!__MfEI_ver._Mami_Kawada.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No buts! <MfEI ver.>",
+      "artist": "川田まみ",
+      "has_synced": false,
+      "path": "select/09_No_buts!__MfEI_ver._川田まみ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No buts!",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/10_No_buts!_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No buts!",
+      "artist": "Kawada, Mami",
+      "has_synced": true,
+      "path": "select/11_No_buts!_Kawada,_Mami.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No buts!",
+      "artist": "Mami Kawada",
+      "has_synced": true,
+      "path": "select/12_No_buts!_Mami_Kawada.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No buts!",
+      "artist": "Mami Kawada",
+      "has_synced": false,
+      "path": "select/13_No_buts!_Mami_Kawada.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No buts!",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_01_No_buts!_川田_まみ.txt"
+    }
+  ]
+}
